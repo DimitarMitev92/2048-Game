@@ -1,8 +1,6 @@
 2048 Game
 =========
 
-![2048 Game](https://github.com/DimitarMitev92/2048-game/blob/master/resources/img/logo.png)
-
 Welcome to the 2048 Game repository! This repository contains the source code for the 2048 game, a popular puzzle game played on a 4x4 grid. The game is built using HTML, CSS, and JavaScript, and it offers a simple yet addictive gameplay experience.
 
 Table of Contents
