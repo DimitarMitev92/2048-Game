@@ -37,13 +37,9 @@ To play the 2048 game locally, follow these steps:
 
 1.  Clone the repository:
 
-    shell
-
 -   `git clone https://github.com/DimitarMitev92/2048-game.git`
 
     -   Navigate to the project directory:
-
-    shell
 
 1.  `cd 2048-game`
 
